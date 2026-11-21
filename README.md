@@ -1,17 +1,46 @@
-# trip_mate
+# TripMate – Smart Travel Planner
 
-A new Flutter project.
+## About the Project
+TripMate is a Flutter mobile application that helps users plan their trips based on their preferences.
 
-## Getting Started
+Users can select their destination type, trip duration, budget, and travel style to receive a personalized travel plan.
 
-This project is a starting point for a Flutter application.
+## Project Objectives
+- Simplify the trip planning process.
+- Provide personalized travel suggestions.
+- Organize daily travel activities.
+- Help users prepare for their trips.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- Visual Studio Code
+- Git & GitHub
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Main Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Page
+A welcoming interface that allows users to start planning their trips.
+
+### Trip Details Page
+Allows users to select:
+- Destination Type
+- Trip Duration
+- Budget
+- Travel Style
+
+### Trip Results Page
+Displays:
+- Selected trip details.
+- Daily itinerary.
+- Budget-based activity suggestions.
+- Personalized packing checklist.
+
+## Project Structure
+- `main.dart` – Application entry point and theme.
+- `home_page.dart` – Home page interface.
+- `trip_details_page.dart` – Trip preferences.
+- `trip_result_page.dart` – Travel plan and results.
+
+## Developer
+Developed as a university project.
